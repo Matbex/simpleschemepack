@@ -1,0 +1,9 @@
+name: "simplerschemepack"
+displayName: "Simple Scheme Pack"
+author: Matbex
+description: "[RU] Простой и универсальный схем пак.
+[EN] A simple and versatile scheme pack."
+version: "1.0"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: true
