@@ -3,7 +3,6 @@ displayName: "Simple Scheme Pack"
 author: Matbex
 description: "[RU] Простой и универсальный схем пак.
 [EN] A simple and versatile scheme pack.
-Version: 1.2
 version: "1.2"
 minGameVersion: "146"
 dependencies: [ ]
